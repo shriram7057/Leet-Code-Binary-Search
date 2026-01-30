@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/shriram7057/shriram7057/blob/main/Binary%20Search.gif?raw=true" width="280" />
+</div>
 
   <h1>LeetCode Binary Search</h1>
 
